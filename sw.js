@@ -1,4 +1,4 @@
-const CACHE_NAME = 'carpeta-virtual-v1'; // <-- Cambia a v1
+const CACHE_NAME = 'carpeta-virtual-v2'; // <-- Cambia a v1
 
 const ARCHIVOS_OFFLINE = [
   './',
